@@ -1,7 +1,7 @@
 ### Hi there 👋
 - ⚡ Im a developer at **@PocketStudios**.
 
-- 🔭 I'm work on projects that **improve the world** in any possible way.
+- 🔭 I work on projects that **improve the world** in any possible way.
 
 - 🌱 I'm still in High School, future **computer science** student!
 
